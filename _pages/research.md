@@ -29,9 +29,9 @@ We connect research in mechanical engineering, electrical engineering, computer 
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
      <td>
-      <img src="/images/a2.jpeg" alt="a2" style="width:50%;">
+      <img src="/images/a2.jpeg" alt="a2" style="width:70%;">
     </td>
-     <td style="width:50%; padding: 10px; border: none;">
+     <td style="width:30%; padding: 0px; border: none;">
       <strong>Human-Robot Interaction</strong><br><br>
       Although automated vehicle studies are moving forward with a fast pace, the This study is to investigate how the humans interact with robots and automated vehicles. The future connected and autoamted vehicles as well as robots will co-exist with humans. There should be many challenges arising due to the uncertainty of humans behaviour and the limited understanding between humans and robots or intelligent vehicles. Our research in this area focuses on investigating human factors, predicting human behaviour, and developing human-centric autonomous systems that can co-exist and coorperatve with humans.
     </td>
