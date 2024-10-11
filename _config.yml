@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Pan"
+title                    : "Chongfeng Wei"
 title_separator          : "-"
-name                     : &name "Wei Pan"
+name                     : &name "Chongfeng Wei"
 description              : &description "personal description"
-url                      : https://panweihit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://drcfwei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,28 +78,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Pan"
-  avatar           : "weipan.jpeg"
-  bio              : "Senior Lecturer in Machine Learning, University of Manchester"
-  location         : "Manchester, UK"
+  name             : "Chongfeng Wei"
+  avatar           : "chongfeng.jpeg"
+  bio              : "James Watt School of Engineering,University of Glasgow"
+  location         : "Glasgow, G12 8QQ, UK"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=GqryWPsAAAAJ&hl"
-  email            : "wei.pan@manchester.ac.uk"
+  email            : "chongfeng.wei@glasgow.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
-  researchgate     :  "https://www.researchgate.net/profile/Wei-Pan-21"
+  researchgate     :  
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "panweihit"
+  github           : "drcfwei"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "wei-pan-6b558b17"
-  orcid            : "https://orcid.org/0000-0003-1121-9879"
+  linkedin         :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
