@@ -29,7 +29,7 @@ Within the complex and interactive environment, automated vehicles (AVs) not onl
     </div>
     <div style="flex: 1; padding: 10px; display: flex; flex-direction: column; justify-content: center; text-align: justify;">
 <strong style="color: #52adc8;"> Human-Robot Interaction.</strong><br>
-Although automated vehicle studies are moving forward at a fast pace, this study is to investigate how humans interact with robots and automated vehicles. The future connected and automated vehicles, as well as robots, will co-exist with humans. There should be many challenges arising due to the uncertainty of human behavior and the limited understanding between humans and robots or intelligent vehicles. Our research in this area focuses on investigating human factors, predicting human behavior, and developing human-centric autonomous systems that can co-exist and cooperate with humans.
+Although AV studies are moving forward at a fast pace, this study is to investigate how humans interact with robots and automated vehicles. The future connected and automated vehicles, as well as robots, will co-exist with humans. There should be many challenges arising due to the uncertainty of human behavior and the limited understanding between humans and robots or intelligent vehicles. Our research in this area focuses on investigating human factors, predicting human behavior, and developing human-centric autonomous systems that can co-exist and cooperate with humans.
     </div>  
 </div>
 
