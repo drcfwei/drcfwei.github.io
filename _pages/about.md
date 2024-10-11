@@ -20,7 +20,6 @@ Dr. Chongfeng Wei is an Associate Professor (University Senior Lecturer) of Jame
 
 
 # Potential Opportunity
-
 I am constantly looking for passionate PhD students to join me. Please contact me if you are interested in applying for a PhD candidate in my research lab. Visiting scholars in related research areas are also welcome to contact. University of Glasgow has several type of scholarships including both University scholarship (14 international ones) and CSC-based scholarship (20 candidates), so if you are interested in phd application through [CSC](https://www.csc.edu.cn/) and have relevant background and excellent research experience, please contact me.
 
 
