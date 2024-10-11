@@ -2,19 +2,16 @@
 main:
   - title: "People"
     url: /people/
+    
+  - title: "Research"
+    url: /research/
+
+  - title: "News"
+    url: /news/
   
   - title: "Publications"
     url: /publications/ 
-  
-  - title: "Teaching"
-    url: /teaching/    
- 
-  - title: "Robots"
-    url: /robots/
-  
-  - title: "Software"
-    url: /software/ 
-    
+
   - title: "Opening"
     url: /opening/  
         
