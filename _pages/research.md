@@ -23,6 +23,7 @@ We connect research in mechanical engineering, electrical engineering, computer 
 </div>
 
 
+
 <div style="display: flex; width: 100%;">
  <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
         <img src="/images/a2.jpeg" alt="a2" style="width: 80%; height: auto; max-height: 100%; object-fit: cover;">
@@ -32,6 +33,7 @@ We connect research in mechanical engineering, electrical engineering, computer 
        Although automated vehicle studies are moving forward with a fast pace, the This study is to investigate how the humans interact with robots and automated vehicles. The future connected and autoamted vehicles as well as robots will co-exist with humans. There should be many challenges arising due to the uncertainty of humans behaviour and the limited understanding between humans and robots or intelligent vehicles. Our research in this area focuses on investigating human factors, predicting human behaviour, and developing human-centric autonomous systems that can co-exist and coorperatve with humans.
     </div>  
 </div>
+
 
 
 <div style="display: flex; width: 100%;">
