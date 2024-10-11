@@ -173,7 +173,7 @@ H Taghavifar, C Hu, L Taghavifar, Y Qin, J Na, <b>C Wei</b><br>
 ## 2019
 
 <b>[RISE-based integrated motion control of autonomous ground vehicles with asymptotic prescribed performance](https://ieeexplore.ieee.org/abstract/document/8897128)</b><br>
-<b>C Hu, H Gao, J Guo, H Taghavifar, Y Qin, J Na,<b>C Wei</b><br>
+C Hu, H Gao, J Guo, H Taghavifar, Y Qin, J Na,<b>C Wei</b><br>
 <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i>
 
 <b>[Risk-based autonomous vehicle motion control with considering human driver’s behaviour](https://www.sciencedirect.com/science/article/pii/S0968090X18311550?casa_token=0bOemyis_M0AAAAA:1MlKAnhNwb8qDaqvg_1mHY0m2m4krvmgFL2OWQnn4iYfncvFVr5AkoTz5RA6Q5gi103EzKEN2Q)</b><br>
