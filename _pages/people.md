@@ -1,7 +1,9 @@
 ---
 permalink: /people/
+title: "People"
 author_profile: true
 ---
+
 ## PI and Lab Director:
 - [Chongfeng Wei](https://scholar.google.com/citations?hl=zh-CN&user=zdjSMN8AAAAJ)
 
