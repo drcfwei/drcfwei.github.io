@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-title: "Past News"
+title: "Latest News"
 author_profile: true
 ---
 
