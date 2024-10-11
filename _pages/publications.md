@@ -117,7 +117,6 @@ X Liu, Y Wang, Z Zhou, K Nam,<b>C Wei</b>, C Yin<br>
 Y Liu, R Liu,<b>C Wei</b>, J Xun, T Tan<br>
 <i>IEEE Transactions on Vehicular Technology.</i>
 
-
 <b>[Path-tracking and lateral stabilisation for autonomous vehicles by using the steering angle envelope](https://www.tandfonline.com/doi/full/10.1080/00423114.2020.1776344?casa_token=M8Vrl55nXboAAAAA%3AYVdQ8_MJ9gL4ZLRKw2i0T25SveNmwb1VC3XLn3OkkRbQeTnWEJLFn0kbYS3Pqdy-GMQrETEbmhc5aQ)</b><br>
 Q Cui, R Ding, <b>C Wei</b>, B Zhou<br>
 <i>Vehicle System Dynamics.</i>
@@ -129,7 +128,6 @@ C Peng, N Merat, R Romano, F Hajiseyedjavadi, E Paschalidis, <b>C Wei</b>, ...<b
 <b>[Effect of Environmental Factors and Individual Differences on Subjective Evaluation of Human-like and Conventional Automated Vehicle Controllers](https://www.sciencedirect.com/science/article/pii/S1369847822001681)</b><br>
 F Hajiseyedjavadi, E Boer, R Romano, E Paschalidis,<b>C Wei</b>, A Solernou, ...<br>
 <i>PsyArXiv.</i>
-
 
 
 ## 2020
