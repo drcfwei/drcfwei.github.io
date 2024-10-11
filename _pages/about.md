@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="text-align: justify;">
 Dr. Chongfeng Wei is an Associate Professor (University Senior Lecturer) of James Watt School of Engineering at University of Glasgow. Chongfeng received his PhD from University of Birmingham, after which he worked at Hong Kong Polytechnic University and University of Waterloo as a postdoc, and then joined Shanghai Jiao Tong University as an assistant professor, after which he moved back to the UK until now. Chongfeng is interested in how to make the future autonomous vehicles interact with humans and the traffic environments naturally, and he is also interested in the design of robots that can effectively interact with diverse environments including humans and severe environments by employing AI techniques, bio-designs, and first principles of dynamics and control. Chongfeng also serves as an Associate Editor of IEEE TITS, IEEE TVT, IEEE TIV, IEEE OJ-ITS, and Frontiers on AI and Robotics.
+</div>
 
 # Research Interests
 - Decision-making and Planning of Intelligent Vehicles
