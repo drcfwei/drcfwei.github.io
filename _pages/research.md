@@ -13,7 +13,6 @@ We connect research in mechanical engineering, electrical engineering, computer 
 
 
 
-
 <div style="display: flex; width: 100%;">
     <div style="flex: 1; padding: 10px; text-align: justify;">
         <strong style="color: #52adc8;"> Decision-making of Intelligent Vehicles</strong><br> 
