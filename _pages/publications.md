@@ -7,6 +7,10 @@ author_profile: true
 * Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach
 * S Fang, P Hang, C Wei, Y Xing, J Sun
 * arXiv
+
+<b>[Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach](hhttps://ieeexplore.ieee.org/abstract/document/10529605)</b><br>
+ S Fang, P Hang, <b>C Wei</b>, Y Xing, J Sun.<br>
+<i>arXiv.</i>
   
 * Deceleration parameters as implicit communication signals for pedestrians’ crossing decisions and estimations of a utomated vehicle behaviour
 * K Tian, A Tzigieras, C Wei, YM Lee, C Holmes, M Leonetti, N Merat, R Romano, G Markkula
@@ -20,9 +24,9 @@ author_profile: true
 * X Jin, C Wei, C Huang, C Hu, G Yin, M Chadli
 * Machines
 
-User comfort and naturalness of automated driving: The effect of vehicle kinematics and proxemics on subjective response
-C Peng, C Wei, A Solernou, M Hagenzieker, N Merat
-OSF Preprints
+* User comfort and naturalness of automated driving: The effect of vehicle kinematics and proxemics on subjective response
+* C Peng, C Wei, A Solernou, M Hagenzieker, N Merat
+* OSF Preprints
 
 * Human–Machine Redundant Braking System for Aftermarket Low-Speed Electric Vehicle: Design and Validation
 * S Sun, W Qu, X Huang, G Tian, P Deng, K Liu, Y Tang, L Chen, C Wei
