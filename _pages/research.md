@@ -9,32 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in [Bioengineering](http://www.imperial.ac.uk/bioengineering), [Imperial College London](https://www.imperial.ac.uk/), 2017
-  * Supervisor: [Prof. Guy-Bart Stan](http://www.bg.ic.ac.uk/research/g.stan/)
-* M.S in Biomedical Engineering, [University of Science and Technology of China](http://en.ustc.edu.cn/), 2011
-  * Supervisor: [Prof. Huanqing Feng](https://est.ustc.edu.cn/4644/list.htm) and [Prof. Zidong Wang](http://people.brunel.ac.uk/~csstzzw/)
-* B.S in Automation, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2008
-  * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)  
+## Research Overview
+We connect research in mechanical engineering, electrical engineering, computer science, psychology and mathematics to tackle a wide range of problems across the field of intelligent vehicles and dynamical systems. Our group aims to develop innovative dynamic models and control algorithms to characterise and improve the behaviour of intelligent vehicles and mechanical systems in relation to safety, comfort, acceptance, naturalness and trust, provide fundamental insights into human-centric intelligent systems, and build next-generation of intelligent vehicles as well as robots to address challenges in human-robot interaction, decision making and control, human factors and transportation.
 
-Industry Experience
-======
-* Project Leader, 2016-2018
-  * [DJI](https://www.dji.com/), Shenzhen, China
-  * Machine learning research for DJI drones and AI accelerator
-* Quant, 2015
-  * [Cardwell Investment](http://c-i-technologies.com/), London, UK
-  * Futures trading strategy
-* Data Scientist, 2014
-  * [Activesecurities](https://activesecurities.com/), London, UK
-  * Fraud detection
+## Research Overview
+<table>
+  <tr>
+    <td>
+   Decision-making  of Intelligent Vehicles
+  Within the complex and interactive environment, automated vehicles (AVs) not only need to avoid the dynamic and static obstacles,  but also need to coorperate or negotiate with other road users,  One critical challenge is that the AVs cannot socially behave   like rational human drivers when interacting with other road users, especially in interactive urban environments engaged with  heterogenous road users.  Our study is to develop human-centric decision making and control algorithms for AVs in relation to trust, acceptance and naturalness.
+    </td>
+    <td>
+      <img src="IMAGE_URL" alt="Chongfeng Wei" style="width:200px;">
+    </td>
+  </tr>
+</table>
 
-Awards
-======
-* Selected candidate of Kongque-plan Award, Shenzhen, China, 2017
-* Chinese Government Award for Outstanding Self-financed Students Abroad, 2015
-* Microsoft PhD Scholarship, Microsoft Research, 2011-2015
-* Dorothy Hodgkin Postgraduate Award, EPSRC, 2011-2015
-* Department of Bioengineering Industrial PhD Studentship, Imperial College London, 2011-2015
-* Gold Medals, [International Genetically Engineered Machine Competition (iGEM)](https://igem.org/Main_Page), 2009 and 2010 
+
