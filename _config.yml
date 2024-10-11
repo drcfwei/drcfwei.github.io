@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Chongfeng Wei"
+name                     : &name "Home"
 description              : &description "personal description"
 url                      : https://drcfwei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
