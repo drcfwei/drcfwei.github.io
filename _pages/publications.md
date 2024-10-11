@@ -161,7 +161,7 @@ V Radhakrishnan, N Merat, T Louw, MG Lenné, R Romano, E Paschalidis,<b>C Wei</b
 H Taghavifar, B Xu, C Hu, Y Qin, <b>C Wei</b><br>
 <i>IEEE Access.</i>
 
-<b>[KF-neural network observer based type-2 fuzzy control of autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9067077)</b><br>
+<b>[EKF-neural network observer based type-2 fuzzy control of autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9067077)</b><br>
 H Taghavifar, C Hu, Y Qin, <b>C Wei</b><br>
 <i>IEEE Transactions on Intelligent Transportation Systems.</i>
 
