@@ -36,7 +36,7 @@ Although automated vehicle studies are moving forward at a fast pace, this study
 
 <div style="display: flex; width: 100%;">
     <div style="flex: 1; padding: 10px; text-align: justify;">
-        <strong style="color: #52adc8;"> Dynamics and control</strong>
+        <strong style="color: #52adc8;">Dynamics and control</strong>
 Our research in dynamics  is to develop dynamic models to characterise the dynamics behaviour of mechanical systems,  particularly nonlinear systems. Through exploring the nonlinear properties of these mechanical system, we can optimise designs of the sytems, and improve the accuracy of mathematical modelling. WIth the developed dynamic systems, we also develop controllers to improve their performance in relation to comfortability, stability, safety and energy economy.
     </div>
     <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
