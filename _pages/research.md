@@ -28,7 +28,7 @@ We connect research in mechanical engineering, electrical engineering, computer 
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
-     <td style="width:30%; padding: 10px; border: none; text-align: justify;">
+     <td>
       <img src="/images/a2.jpeg" alt="a2" style="width:70%;">
     </td>
      <td style="width:30%; padding: 10px; border: none;">
