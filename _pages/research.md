@@ -12,7 +12,6 @@ redirect_from:
 ## Research Overview
 We connect research in mechanical engineering, electrical engineering, computer science, psychology and mathematics to tackle a wide range of problems across the field of intelligent vehicles and dynamical systems. Our group aims to develop innovative dynamic models and control algorithms to characterise and improve the behaviour of intelligent vehicles and mechanical systems in relation to safety, comfort, acceptance, naturalness and trust, provide fundamental insights into human-centric intelligent systems, and build next-generation of intelligent vehicles as well as robots to address challenges in human-robot interaction, decision making and control, human factors and transportation.
 
-## Research Overview
 <table>
   <tr>
     <td>
