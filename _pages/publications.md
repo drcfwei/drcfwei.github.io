@@ -74,6 +74,30 @@ X Jin, J Wang, X He, Z Yan, L Xu,<b>C Wei</b>, G Yin<br>
 S Sun, W Qu, X Huang, G Tian, P Deng, K Liu, Y Tang, L Chen, <b>C Wei</b><br>
 <i> Processes.</i>
 
+## 2022
+<b>[Interaction-aware Decision-making for Automated Vehicles using Social Value Orientation](https://ieeexplore.ieee.org/abstract/document/9826385)</b><br>
+L. Crosato, H. Shum, H. Edmond,  <b>C Wei</b><br>
+<i>IEEE Transactions on Intelligent Vehicles.</i>
+
+<b>[Impact of Visual and Cognitive Distractions and Time Pressure on Pedestrian Crossing Behaviour: A Simulator Study](https://europepmc.org/article/ppr/ppr500554)</b><br>
+K Tian, G Markkula, <b>C Wei</b>, E Sadraei, T Hirose, N Merat, R Romano<br>
+<i>PsyArXiv.</i>
+
+<b>[Explaining Unsafe Pedestrian Road Crossing Behaviours Using a Psychophysics-based Gap Acceptance Model](https://europepmc.org/article/ppr/ppr470400)</b><br>
+K Tian, G Markkula,<b>C Wei</b>, YM Lee, R Madigan, N Merat, R Romano<br>
+<i>Safety Science.</i>
+
+<b>[Human-centred risk-potential-based trajectory planning of autonomous vehicles](https://journals.sagepub.com/doi/full/10.1177/09544070221078648)</b><br>
+Z Wang,<b>C Wei</b><br>
+<i>Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering.</i>
+
+<b>[Deep Reinforcement Learning-based Integrated Control of Hybrid Electric Vehicles Driven by Lane-Level High Definition Map](https://ieeexplore.ieee.org/abstract/document/10159268)</b><br>
+X Tang, J Chen, K Yang, <b>C Wei</b>, L Grzesiak, X Hu<br>
+<i>IEEE Transactions on Transportation Electrification.</i>
+
+
+
+Deep Reinforcement Learning-based Integrated Control of Hybrid Electric Vehicles Driven by Lane-Level High Definition Map
 
 <b>[]()</b><br>
 <br>
