@@ -4,48 +4,21 @@ title: "Past News"
 author_profile: true
 ---
 
-* May 12, My first PhD student, [Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ) sucessfuly defended his PhD thesis "[Bayesian Deep Learning for System Identification
-](https://www.narcis.nl/publication/RecordID/oai:tudelft.nl:uuid%3A94b0cdd5-280b-4afb-a210-f19ecf12cf66)". Huge congratulations, Dr Zhou!  
-* May 8, Our paper "[Sparse Bayesian Deep Learning for Dynamic System Identification](https://www.sciencedirect.com/science/article/pii/S000510982200348X)" was accepted by Automatica! Well done, Hongpeng and Ibrahim.  
-* January 31, 2022, Our paper "[Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots](https://ieeexplore.ieee.org/document/9811604)" accepted to ICRA!
-* Dec 28, 2021, <span style="color:red">**One PostDoc position openning**</span> on robust and safe RL for control. [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=2178&nPostingTargetId=5329&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external)
-* Dec 15, 2021, <span style="color:red">**One PhD position openning**</span> on neuromorphic processors and spiking neural network training. [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=5039&jobTitle=SELF%20Lab%204%20PhD%20Positions)
-* October 25, 2021, Our paper "[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)" accepted to Automatica!
-* August 28, 2021, Our paper "[Learning-based Multi-robot Formation Control with Obstacle Avoidance](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527169)" accepted to IEEE Transactions on Intelligent Transportation Systems! Well done, Chengchao!
-* June 30, 2021, Our paper "[Reinforcement Learning Compensated Extended Kalman Filter for Attitude Estimation]()" accepted to IROS! Well done, Yujie!
-* June 8, 2021, <span style="color:red">**One Postdoc position openning**</span> on "Bayesian Learning for Robotics". [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=3161&jobTitle=Postdoc%20Bayesian%20Learning%20for%20Robotics)
-* May 29, 2021, Our paper "[Finite-Time Fuzzy Adaptive Constrained Tracking Control for Hypersonic Flight Vehicles with Singularity-Free Switching](https://ieeexplore.ieee.org/document/9460818)" accepted to IEEE Transactions on Mechatronics!
-* May 28, 2021, Our paper "[Model-Reference Reinforcement Learning for Collision-Free Tracking Control of Autonomous Surface Vehicles](https://ieeexplore.ieee.org/document/9454561)" accepted to IEEE Transactions on Intelligent Transportation Systems! Well done, Qingrui!
-* April 12, 2021, Our paper "[Secure Control for Cyber-Physical Systems under Malicious Attacks]()" accepted to IEEE Transactions on Control of Network Systems! Well done, Chengwei!
-* April 7, 2021, I will serve as an Area Chair for [CoRL 2021](https://www.robot-learning.org/).
-* March 25, 2021, Our paper "[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://www.sciencedirect.com/science/article/pii/S0005109821002090#!)" accepted to Automatica! Well done, Minghao and Yuan!
-* February 28, 2021, Our paper "[Reinforcement Learning for Orientation Estimation Using Inertial Sensors with Performance Guarantee](https://arxiv.org/abs/2103.02357)" accepted to ICRA! Well done, Yujie!
-* February 17, 2021, I will serve as an Associate Editor for [IROS 2021](https://www.iros2021.org/).
-* Januray 20, 2021, Our paper "[Learning Tracking Control for Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9344638/)" accepted to IEEE Internet of Things Journal! Well done, Chengwei!
-* Januray 4, 2021, Dr Zhipeng Zhou join our group as a PostDoc. Welcome, Zhipeng!
-* Januray 4, 2021, Ms Yujie Tang join our group as a PhD student. Welcome, Yujie!
-* Januray 1, 2021, We received a gift from [HUAWEI UK](https://www.noahlab.com.hk/). Thanks, HUAWEI!
-* December 17, 2020, I join the Personnel Committee (Onderdeelcommissie) for the faculty of Mechanical, Maritime and Materials Engineering (3mE). 
-* October 14, 2020, Our paper "[Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians](https://arxiv.org/abs/2010.09056)" accepted to CoRL!
-* October 1, 2020, Mr Robert Cornet join our group as a research engineer. Welcome, Robert!
-* September 11, 2020, Our paper "[Zero-Sum Game Based Optimal Secure Control under Actuator Attacks]()" accepted to IEEE Transactions on Automatic Control!
-* September 2, 2020, Our paper "[Dynamic Network Reconstruction from Heterogeneous Datasets](https://arxiv.org/abs/1612.01963)" accepted to Automatica!
-* July 16, 2020, Our paper "[Model-Reference Reinforcement Learning Control of Autonomous Surface Vehicles with Uncertainties](https://arxiv.org/abs/2003.13839)" accepted to [CDC](https://www.cdc2020.ieeecss.org/)! [Check extended version](https://arxiv.org/abs/2008.07240) 
-* July 7, 2020, Our paper "[Lyapunov-Based Reinforcement Learning for Decentralized Multi-Agent Control](https://arxiv.org/abs/2009.09361)" accepted to [DAI](http://www.adai.ai/)！
-* July 6, 2020, I will serve as an Aera Chair for [CoRL 2020](https://www.robot-learning.org/).
-* July 1, 2020, Our paper "[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://arxiv.org/abs/2004.14288)" accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l) and [IROS](https://www.iros2020.org/)! 
-* April 1, 2020, [Dr Chengchao Bai](https://www.researchgate.net/profile/Chengchao_Bai) from Harbin Institue of Technology joined our group as a PostDoc. Welcome, Chengchao!
-* February 3, 2020, I will serve as an Associate Editor for [IROS 2020](https://www.iros2020.org/).
-* Janurary 15, 2020, <span style="color:red">**Two Postdoc positions openning**</span> on "Safe Reinforcement Learning for Motion Planning" funded by [AnKobot](https://www.ankobot.com/). One position is on [Simulator](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288789/?lang=en). One position is on [Theory](https://vacature.beta.tudelft.nl/vacaturesite/permalink/288790/?lang=en). 
-* Janurary 14, 2020, Our paper "[Towards Lossless Binary Convolutional Neural Networks Using Piecewise Approximation](https://arxiv.org/abs/2008.03520)" accepted to [ECAI](http://ecai2020.eu/), 2020. Well done, Baozhou.
-* October 25, 2019, Our paper "[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)" is published in <span style="color:red">**Nature Communications**</span>! 
-* October 22, 2019, Our paper "[Asynchronous Observer Design for Switched Linear Systems: A Tube-Based Approach](http://www.ieee-jas.org/article/id/c8b0468a-e4e3-4352-ad7c-ee5e1f75fafd?pageType=en)" is published in IEEE/CAA Journal of Automatica Sinica.
-* October 2, 2019, Our paper "[H∞ Model-free Reinforcement Learning with Robust Stability Guarantee](https://arxiv.org/abs/1911.02875)" is accepted to [NeurIPS 2019 Workshop on Robot Learning](http://www.robot-learning.ml/2019/).
-* September 12, 2019. [Dr Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=zh-CN) from University of Toronto joined our group as a PostDoc, co-supervised by [Dr Vasso Reppa](https://www.tudelft.nl/en/3me/departments/maritime-and-transport-technology/people/transport-engineering-logistics/dr-v-reppa/) from Department of Maritime and Transport Technology. Welcome, Qingrui!
-* April 22, 2019. Our paper ["BayesNAS: A Bayesian Approach for Neural Architecture Search"](https://arxiv.org/abs/1905.04919) accepted to [ICML 2019](https://icml.cc/Conferences/2019/)! Hongpeng also got the ICML Travel Award. Well done, Hongpeng and Minghao.
-* April 11, 2019. Hongpeng gave a talk on "Sparse Bayesian Deep Neural Networks for Nonlinear System Identification" at [Nonlinear System Identification Benchmarks](http://www.nonlinearbenchmark.org/), Eindhoven.
-* April 1, 2019. Talk at Huawei Noah's Ark Lab, London, UK. 
-* Febrary 11, 2019. <span style="color:red">**One Postdoc position openning**</span> on "Learning for Self-healing of Multi-Machine Systems", [apply here](https://www.academictransfer.com/nl/53268/postdoc-learning-for-self-healing-of-multi-machine-systems/)
-* Febrary 8, 2019. Two abstracts accepted to [Benelux Meeting](https://www.beneluxmeeting.nl/2019/).
-* December 21, 2018. Our paper [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7) accepted to ICLR 2019!
-* May 1, 2018. Start my research group in the Department of Cognitive Robotics, TU Delft. Thanks to the amazing colleagues in [DJI](http://www.dji.com)! Thanks [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen)! 
+* 28 Sept 2024, I was invited to give a presentation ("Coupled Pedestrian-Vehicle Interaction and Decision-making") at the 6th FISITA Intelligent Safety Conference China.
+* 28 Aug 2024, I gave an invited presentation "Human-Automated Vehicle Interaction: Virtual Reality Studies" at the 29th International Conference on Automation and Computing (ICAC 2024).
+* 27 Nov 2023,Our review paper "Social Interaction-Aware Dynamical Models and Decision-Making for Autonomous Vehicles" is published in Advanced Intelligent Systems.
+* 5 Jul 2023,Dr. Wei visited Shanghai Jiao Tong University and Tongji University, and gave a presentation on Autonomous Vehicle Decision-making and Control.
+* 21 Apr 2023,Dr. Wei visited Chongqing University and gave a presentation on Human-inspired Autonomous Driving.
+* 3 Dec 2022,Dr. Chongfeng Wei attended the North-South Multi-disciplinary Researcher Workshop and gave a presentation on Human-centric Autonomous Driving.
+* 29 Nov 2022,Invited by Tongji University, Dr. Chongfeng Wei attended a seminar at the 2022 International Conference on the Cooperation and Integration of Industrial Education, Research and Application.
+* 3 Oct 2022,Mr. Jing Wang and Mr. Hady Farrag joined the group as PhD students, welcome!
+* 19 Sept 2022,Dr. Chongfeng Wei has been nominated as an Associate Editor of IEEE Transactions on Intelligent Transportation Systems.
+* 6 Jul 2022,Dr. Chongfeng Wei attended the 11th IFAC Symposium on Intelligent Autonomous Vehicles held in Prague, Czech Republic.
+* 2 Jul 2022,Our paper "Interaction-aware Decision-making for Automated Vehicles using Social Value Orientation" has been accepted by IEEE Transactions on Intelligent Vehicles.
+* 20 Jun 2022,Our paper "Drivers' Evaluation of Different Automated Driving Styles: Is It both Comfortable and Natural?" has been accepted by the journal Human Factors (a top journal in the human factors research area).
+* 28 May 2022,Our paper "Explaining Unsafe Pedestrian Road Crossing Behaviours Using a Psychophysics-based Gap Acceptance Model" has been accepted by Safety Science.
+* 7 Mar 2022,I have been appointed as the Associate Editor of The 25th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022).
+* 12 Feb 2022,Dr. Chongfeng Wei has been awarded the Fellowship of Higher Education Academy.
+* 10 Jan 2022, Our paper "Human-centred Risk-potential-based Trajectory Planning of Autonomous Vehicles" has been accepted by IMechE Part D: Journal of Automobile Engineering.
+
+
