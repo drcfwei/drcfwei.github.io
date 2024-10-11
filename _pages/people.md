@@ -1,8 +1,4 @@
----
-permalink: /people/
-title: "People"
-author_profile: true
----
+
 
 ## PI and Lab Director:
 - Chongfeng Wei
