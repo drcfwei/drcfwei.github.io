@@ -48,5 +48,3 @@ We connect research in mechanical engineering, electrical engineering, computer 
 
 
 
-
-
