@@ -8,7 +8,7 @@ author_profile: true
 * S Fang, P Hang, C Wei, Y Xing, J Sun
 * arXiv
 
-<b>[Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach](hhttps://ieeexplore.ieee.org/abstract/document/10529605)</b><br>
+<b>[Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach](https://ieeexplore.ieee.org/abstract/document/10529605)</b><br>
  S Fang, P Hang, <b>C Wei</b>, Y Xing, J Sun.<br>
 <i>arXiv.</i>
   
