@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chongfeng Wei"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chongfeng Wei"
 description              : &description "personal description"
