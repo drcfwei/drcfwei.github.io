@@ -51,30 +51,41 @@ C Peng, S Horn, R Madigan, C Marberger, JD Lee, J Krems, M Beggiato, R Romano, <
 <i>PsyArXiv.</i>
 
 <b>[Human-centred risk-potential-based trajectory planning of autonomous vehicles](https://journals.sagepub.com/doi/full/10.1177/09544070221078648)</b><br>
-Z Wang, <b>C Wei</b<br>
+Z Wang, <b>C Wei</b><br>
+<i>Proceedings of the Institution of Mechanical Engineers.</i>
+
+<b>[Deconstructing Pedestrian Crossing Decision-making in Interactions with Continuous Traffic: an Anthropomorphic Model](https://arxiv.org/pdf/2301.10419)</b><br>
+K Tian, G Markkula,<b>C Wei</b>, YM Lee, R Madigan, T Hirose, N Merat, R Romano<br>
+<i>arXiv.</i>
+
+
+<b>[Optimal reinforcement learning and probabilistic-risk-based path planning and following of autonomous vehicles with obstacle avoidance](https://journals.sagepub.com/doi/full/10.1177/09544070221149278)</b><br>
+H Taghavifar, L Taghavifar, C Hu, <b>C Wei</b>, Y Qin<br>
 <i>Proceedings of the Institution of Mechanical Engineers.</i>
 
 
 
-
-* Deconstructing Pedestrian Crossing Decision-making in Interactions with Continuous Traffic: an Anthropomorphic Model
-* K Tian, G Markkula, C Wei, YM Lee, R Madigan, T Hirose, N Merat, R Romano
-* arXiv
-
-* Optimal reinforcement learning and probabilistic-risk-based path planning and following of autonomous vehicles with obstacle avoidance
-* H Taghavifar, L Taghavifar, C Hu, C Wei, Y Qin
-* Proceedings of the Institution of Mechanical Engineers
-
-* Improving vibration performance of electric vehicles based on in-wheel motor-active suspension system via robust finite frequency control
-* X Jin, J Wang, X He, Z Yan, L Xu, C Wei, G Yin
-* IEEE Transactions on Intelligent Transportation Systems
-
-* Human–Machine Redundant Braking System for Aftermarket Low-Speed Electric Vehicle: Design and Validation.
-* S Sun, W Qu, X Huang, G Tian, P Deng, K Liu, Y Tang, L Chen, C Wei
-* Processes
+<b>[Improving vibration performance of electric vehicles based on in-wheel motor-active suspension system via robust finite frequency control](https://ieeexplore.ieee.org/abstract/document/10014534)</b><br>
+X Jin, J Wang, X He, Z Yan, L Xu,<b>C Wei</b>, G Yin<br>
+<i>IEEE Transactions on Intelligent Transportation Systems.</i>
 
 
+<b>[Human–Machine Redundant Braking System for Aftermarket Low-Speed Electric Vehicle: Design and Validation](https://www.mdpi.com/2227-9717/11/7/2180)</b><br>
+S Sun, W Qu, X Huang, G Tian, P Deng, K Liu, Y Tang, L Chen, <b>C Wei</b><br>
+<i> Processes.</i>
 
+
+<b>[]()</b><br>
+<br>
+<i>.</i>
+
+<b>[]()</b><br>
+<br>
+<i>.</i>
+
+<b>[]()</b><br>
+<br>
+<i>.</i>
 
 
 
