@@ -24,6 +24,8 @@ We connect research in mechanical engineering, electrical engineering, computer 
   </tr>
 </table>
 
+
+
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
      <td style="width:30%; padding: 10px; border: none; text-align: justify;">
