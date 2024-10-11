@@ -22,7 +22,6 @@ We connect research in mechanical engineering, electrical engineering, computer 
     </div>
 </div>
 
-
 <div style="display: flex; width: 100%;">
     <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
         <img src="/images/a2.jpeg" alt="a2" style="width: 80%; height: auto; max-height: 100%; object-fit: cover;">
