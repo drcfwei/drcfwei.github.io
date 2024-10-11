@@ -32,6 +32,7 @@ We connect research in mechanical engineering, electrical engineering, computer 
     </div>  
 </div>
 
+
 <div style="display: flex; width: 100%;">
     <div style="flex: 1; padding: 10px; text-align: justify;">
         <strong>Dynamics and control</strong><br>
