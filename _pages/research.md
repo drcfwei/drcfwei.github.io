@@ -26,13 +26,14 @@ We connect research in mechanical engineering, electrical engineering, computer 
     </div>
 </div>
 
+
 <div style="display: flex; width: 100%;">
     <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
         <img src="/images/a2.jpeg" alt="a2" style="width: 80%; height: auto; max-height: 100%; object-fit: cover;">
     </div>
     <div style="flex: 1; padding: 10px; display: flex; flex-direction: column; justify-content: center; text-align: justify;">
         <strong style="color: #52adc8;">Human-Robot Interaction.</strong><br> 
-      Although automated vehicle studies are moving forward at a fast pace, this study is to investigate how humans interact with robots and automated vehicles. The future connected and automated vehicles, as well as robots, will co-exist with humans. There should be many challenges arising due to the uncertainty of human behavior and the limited understanding between humans and robots or intelligent vehicles. Our research in this area focuses on investigating human factors, predicting human behavior, and developing human-centric autonomous systems that can co-exist and cooperate with humans.
+Although automated vehicle studies are moving forward at a fast pace, this study is to investigate how humans interact with robots and automated vehicles. The future connected and automated vehicles, as well as robots, will co-exist with humans. There should be many challenges arising due to the uncertainty of human behavior and the limited understanding between humans and robots or intelligent vehicles. Our research in this area focuses on investigating human factors, predicting human behavior, and developing human-centric autonomous systems that can co-exist and cooperate with humans.
     </div>  
 </div>
 
@@ -40,7 +41,7 @@ We connect research in mechanical engineering, electrical engineering, computer 
 <div style="display: flex; width: 100%;">
     <div style="flex: 1; padding: 10px; text-align: justify;">
         <strong style="color: #52adc8;"> Dynamics and control.</strong><br>
-      Our research in dynamics  is to develop dynamic models to characterise the dynamics behaviour of mechanical systems,  particularly nonlinear systems. Through exploring the nonlinear properties of these mechanical system, we can optimise designs of the sytems, and improve the accuracy of mathematical modelling. WIth the developed dynamic systems, we also develop controllers to improve their performance in relation to comfortability, stability, safety and energy economy.
+Our research in dynamics  is to develop dynamic models to characterise the dynamics behaviour of mechanical systems,  particularly nonlinear systems. Through exploring the nonlinear properties of these mechanical system, we can optimise designs of the sytems, and improve the accuracy of mathematical modelling. WIth the developed dynamic systems, we also develop controllers to improve their performance in relation to comfortability, stability, safety and energy economy.
     </div>
     <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
         <img src="/images/a3.jpeg" alt="a3" style="width: 80%; height: auto; max-height: 100%; object-fit: cover;">
