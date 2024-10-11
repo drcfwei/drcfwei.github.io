@@ -14,7 +14,7 @@ We connect research in mechanical engineering, electrical engineering, computer 
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="width:50%; padding: 10px; border: none;">
+    <td style="width:30%; padding: 10px; border: none;">
       <strong>Decision-making of Intelligent Vehicles</strong><br>
       Within the complex and interactive environment, automated vehicles (AVs) not only need to avoid the dynamic and static obstacles, but also need to cooperate or negotiate with other road users. One critical challenge is that the AVs cannot socially behave like rational human drivers when interacting with other road users, especially in interactive urban environments engaged with heterogeneous road users. Our study is to develop human-centric decision making and control algorithms for AVs in relation to trust, acceptance and naturalness.
     </td>
