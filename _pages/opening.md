@@ -4,12 +4,8 @@ title: "Opening"
 author_profile: true
 ---
 
-Interested in working with us in Decision-making, Planning of Intelligent Vehicles, Collective Autonomy,Robotic System Design and Dynamical Control, Dynamics and Control of Mechanical Systems and Human Behaviour Study and Prediction at the University of Glasgow? There are always positions available for outstanding prospective PhD students and postdoctoral staff. Please [email us](mailto:chongfeng.wei@glasgow.ac.uk) if you wish to join the our Group.
+Interested in working with us in Decision-making, Planning of Intelligent Vehicles, Collective Autonomy,Robotic System Design and Dynamical Control, Dynamics and Control of Mechanical Systems and Human Behaviour Study and Prediction at the University of Glasgow? There are always positions available for outstanding prospective PhD students and postdoctoral staff. Please [email us](mailto:chongfeng.wei@glasgow.ac.uk) if you wish to join the our Group. Some scholarships for PhD and PostDoc are available, please refer to the list below. Additionally, self-funded students are also welcome to inquire.
 
-
-### PhD Scholarships
-<!--- **Three PhD scholarships are available.** (1) [CSC-funded studentship]([https://www.findaphd.com/phds/project/a-star-human-visual-recognition-inspired-multi-agent-reinforcement-learning-for-drone-search-and-rescue-in-complex-environment/?p155665](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/) (only for Chinese students), (2) [EPSRC-studentship(https://www.gla.ac.uk/schools/engineering/phdopportunities/#autonomoussystemsandconnectivity,academicapplicationprocedure,scholarshipinformationandscholarshipapplicationprocedure)(for all Students)
---->
 
 ### PostDoc Opportunities
 - If you would like to apply for a PostDoctoral Fellowship to work in my group, this [list of PostDoctoral Fellowships](https://www.se.manchester.ac.uk/research/support/fellowships/) might be useful. 
