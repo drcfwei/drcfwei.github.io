@@ -13,6 +13,6 @@ Interested in working with us in Decision-making, Planning of Intelligent Vehicl
 
 ### PhD Scholarships
 - (1) [CSC-funded studentship](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/) (only for Chinese students)
-- (2) [EPSRC studentship](https://www.gla.ac.uk/schools/engineering/phdopportunities/#autonomoussystemsandconnectivity,academicapplicationprocedure,scholarshipinformationandscholarshipapplicationprocedure)(for all Students)
+- (2) [EPSRC studentship](https://www.gla.ac.uk/schools/engineering/phdopportunities/#autonomoussystemsandconnectivity,academicapplicationprocedure,scholarshipinformationandscholarshipapplicationprocedure) (for all Students)
 
 Please check the [English Requirement](https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/02954/phd-computer-science/entry-requirements/#course-profile) before you apply [Computer Science PhD pragram](https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/02954/phd-computer-science/).  If you have any questions to funding, please don't hesitate to direct your inquires to our [CS Department Admission Office](https://www.cs.manchester.ac.uk/connect/contact/).
