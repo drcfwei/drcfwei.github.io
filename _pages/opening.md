@@ -8,8 +8,8 @@ Interested in working with us in Decision-making, Planning of Intelligent Vehicl
 
 
 ### PostDoc Opportunities
-- If you would like to apply for a PostDoctoral Fellowship to work in my group, this [list of PostDoctoral Fellowships](https://www.se.manchester.ac.uk/research/support/fellowships/) might be useful. 
-- We are also welcoming and supporting outstanding postdocs applying for a [Marie Sklodowska-Curie Individual Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). Please contact me if you are interested.
+- (1) [Marie Curie Postdoctoral Fellowship]()
+- (2) [newton fellowship]()
 
 ### PhD Scholarships
 - (1) [CSC-funded studentship](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/) (only for Chinese students)
