@@ -4,12 +4,12 @@ title: "Opening"
 author_profile: true
 ---
 
-Interested in working with us in Decision-making, Planning of Intelligent Vehicles, Collective Autonomy,Robotic System Design and Dynamical Control, Dynamics and Control of Mechanical Systems and Human Behaviour Study and Prediction at the University of Glasgow? There are always positions available for outstanding prospective PhD students and postdoctoral staff. Please [email us](mailto:chongfeng.wei@glasgow.ac.uk) if you wish to join the our Group. Some scholarships for PhD and PostDoc are available, please refer to the list below. Additionally, self-funded students are also welcome to inquire.
+Are you interested in working with us at the James Watt School of Engineering, University of Glasgow, in areas such as Decision-making and Planning for Intelligent Vehicles, Collective Autonomy, Robotic System Design and Dynamic Control, Dynamics and Control of Mechanical Systems, and Human Behavior Study and Prediction? There are always positions available for outstanding prospective PhD students and postdoctoral staff. Please [email us](mailto:chongfeng.wei@glasgow.ac.uk) if you wish to join the our group. Some scholarships for PhD and PostDoc are available, please refer to the list below. Additionally, self-funded students are also welcome to inquire.
 
 
 ### PostDoc Opportunities
 - (1) [Marie Curie Postdoctoral Fellowship]()
-- (2) [newton fellowship]()
+- (2) [Newton fellowship]()
 
 ### PhD Scholarships
 - (1) [CSC-funded studentship](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/) (only for Chinese students)
