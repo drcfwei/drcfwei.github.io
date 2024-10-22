@@ -8,11 +8,11 @@ Are you interested in working with us at the James Watt School of Engineering, U
 
 
 ### PostDoc Opportunities
-- (1) [Marie Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
-- (2) [Newton fellowship](https://royalsociety.org/grants/newton-international/).
+- [Marie Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
+- [Newton fellowship](https://royalsociety.org/grants/newton-international/).
 
 ### PhD Scholarships
-- (1) [CSC-funded studentship](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/) (only for Chinese students).
-- (2) [EPSRC studentship](https://www.gla.ac.uk/schools/engineering/phdopportunities/#autonomoussystemsandconnectivity,academicapplicationprocedure,scholarshipinformationandscholarshipapplicationprocedure) (for all Students).
+- [CSC-funded studentship](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/) (only for Chinese students).
+- [EPSRC studentship](https://www.gla.ac.uk/schools/engineering/phdopportunities/#autonomoussystemsandconnectivity,academicapplicationprocedure,scholarshipinformationandscholarshipapplicationprocedure) (for all Students).
 
 Please check the [English Requirement](https://www.gla.ac.uk/international/englishlanguage/requirements/) before you apply.  If you have any questions to funding, please don't hesitate to contact us. Additionally, self-funded students are also welcome to inquire.
