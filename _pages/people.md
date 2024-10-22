@@ -18,7 +18,7 @@ author_profile: true
 - Ruihan Yao (Joint supervision with [Prof. Yan Jin](https://scholar.google.com/citations?hl=zh-CN&user=u3DbVWQAAAAJ))
 - Zixuan Huang (Joint supervision with Prof. [Prof. Dezong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=ydq4ZjYAAAAJ))
 - Boyu Chen (Joint supervision with [Prof. Dezong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=ydq4ZjYAAAAJ))
-- Chaoning He (Visiting PhD)
+- Chaoning Chen (Visiting PhD)
 - Haichuan Zhang (Visiting PhD)
 
 ## Alumni:
