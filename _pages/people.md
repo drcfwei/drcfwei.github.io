@@ -23,7 +23,7 @@ author_profile: true
 - Chaoning Chen (Visiting PhD)
 - Haichuan Zhang (Visiting PhD)
 
-## Alumni:
+## PhD Alumni:
 - Dr. Kai Tian (Graduated in 2023)
 - Dr. Chen Peng (Graduated in 2024)
 - Dr. Luca Crasato (Graduated in 2024)
