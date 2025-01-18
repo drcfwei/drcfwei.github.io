@@ -17,6 +17,7 @@ Dr. Chongfeng Wei is an Associate Professor (University Senior Lecturer) of Jame
 - Robotic System Design and Dynamical Control
 - Dynamics and Control of Mechanical Systems
 - Human Behaviour Study and Prediction
+- Human-Robot Interaction
 
 
 # Potential Opportunity
