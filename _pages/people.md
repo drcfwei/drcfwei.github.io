@@ -12,6 +12,7 @@ author_profile: true
 ## PhD Students:
 - Meiting Dang (Joint supervision with [Prof. David Flynn](https://scholar.google.com/citations?hl=zh-CN&user=EeSDHVkAAAAJ) and [Prof. Dezong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=ydq4ZjYAAAAJ))
 - Hady Farrag (Joint supervision with [Prof. Yan Jin](https://scholar.google.com/citations?hl=zh-CN&user=u3DbVWQAAAAJ))
+- Luca Crosato
 - Jing Wang (Joint supervision with[Prof. Yan Jin](https://scholar.google.com/citations?hl=zh-CN&user=u3DbVWQAAAAJ))
 - Yanping Wu (Joint supervision with [Dr. Edmond S.L Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/#), [Prof. David Flynn](https://scholar.google.com/citations?hl=zh-CN&user=EeSDHVkAAAAJ) and [Prof. Dezong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=ydq4ZjYAAAAJ))
 - Yuxuan Xie (Joint supervision with [Dr. Edmond S.L Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/#))
